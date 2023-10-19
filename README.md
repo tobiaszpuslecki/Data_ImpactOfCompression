@@ -1,2 +1,7 @@
 # Data_ImpactOfCompression
-Data_Study of the impact of data compression on the energy consumption 
+Data for "Study of the impact of data compression on the energy consumption" article.
+
+Authors: D. Piątkowski, T. Puślecki, K. Walkowiak
+
+Article data:
+**TODO**
